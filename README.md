@@ -1,4 +1,5 @@
 # Power-BI-Projects
+<img width="717" alt="image" src="https://github.com/user-attachments/assets/7dc8d321-878c-4d3d-a9da-7b5e71ecb668" />
 
 ## 📌 Project Overview:
 The dashboard is crafted to help business stakeholders track critical KPIs—Sales, Profit, and Quantity—across the Central, East, South, and West regions, with the ability to easily toggle between metrics and years.
